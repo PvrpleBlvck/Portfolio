@@ -12,13 +12,14 @@ I am not a financial advisor, Please consult your financial advisor or better ye
 ##### The winning rate is averaging 91%. 
  I won't teach you about risk management. But just don't overdo it.
 > On av, a single pair will give about 300 signals per year. with over 30 pairs to choose from
- 
+``` 
  That's something like 
  ((300 * 30 ) * 92%) * whatever risk you willing to take.
  The answer is somewhere back in 3rd grade, i suck at maths
 
+```
  
-> Now, this is gambling and i not here to talk about such.... 
+> Now, this is gambling and I'm not here to talk about such.... 
 
 ### If you just want to relax and trade with minimum risk
 
